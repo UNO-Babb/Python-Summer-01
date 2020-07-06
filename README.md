@@ -100,3 +100,7 @@ Please remember to fill in all of the info at the top of the document.
 
 ## Testing your code
 You may not actually know that your code works until you fully test what you have written. It is often a good idea to get someone else to run your program, they may do something you had not anticipated which could show you a possible flaw or at least a design issue.
+
+### Join our Repl.it Classroom
+Follow this link to join our classroom:
+[https://repl.it/classroom/invite/s6sFivu](https://repl.it/classroom/invite/s6sFivu)
