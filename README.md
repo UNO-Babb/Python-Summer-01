@@ -43,7 +43,16 @@ print("Hello" + 5)
 - Paste the following URL into the box:
   - ***github.com/UNO-Babb/Python-Summer-01***
 
+## Running a file in Repl.it
+There are several ways to get our code to run in Repl.it
+- One way is to add the command to the ***.replit*** file
+  - It is currently configured to run ***Hello.py***
+- A second way is to type in the command line.
+```
+> python Hello.py
+```
 
+Make sure you are able to run a file in Repl.it
 
 ## FirstProgram.py
 The instructions for the program is in code. In python, a pound sign (#) is used to denote a comment. This is code that will not execute and is only there for the benefit of the programmer.
